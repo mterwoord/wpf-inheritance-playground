@@ -35,7 +35,6 @@
             // panelBottom
             // 
             this.panelBottom.Controls.Add(this.button2);
-            this.panelBottom.Size = new System.Drawing.Size(437, 47);
             this.panelBottom.Controls.SetChildIndex(this.button2, 0);
             // 
             // button2
@@ -51,7 +50,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(437, 261);
+            this.ClientSize = new System.Drawing.Size(535, 261);
             this.Name = "MyCustomDialog";
             this.Text = "MyCustomDialog";
             this.panelBottom.ResumeLayout(false);

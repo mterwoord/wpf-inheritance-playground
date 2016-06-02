@@ -89,6 +89,9 @@
     <EmbeddedResource Include="MyCustomDialog.resx">
       <DependentUpon>MyCustomDialog.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="MyGridForm.resx">
+      <DependentUpon>MyGridForm.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
